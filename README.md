@@ -5,7 +5,7 @@ The project 0 is for a basic Python familiarity.
 
 The project 1 is to design algorithms for path search problems regarding fixed food dot using DFS, BFS, UCS and A*.
 
-<div align=center> <img src = "https://github.com/CocoYard/412-pacman/blob/main/maze.png"/> </div>
+<div align=center> <img src = "https://github.com/CocoYard/412-pacman/blob/master/maze.png"/> </div>
 
 The project 2 is to design algorithms for pacman to avoid ghosts while eating foods and to eat ghosts while they are scared, using Minimax, Expectimax search and proposing a customized evaluation function.
 
