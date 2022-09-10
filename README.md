@@ -28,7 +28,7 @@ The Pacman AI projects were developed at UC Berkeley, primarily by John DeNero (
 
 
 Play the game by inputing: 
-
+```zsh
  python pacman.py
-
+```
 Other adjustments such as using agents are in the file "commands.txt".
