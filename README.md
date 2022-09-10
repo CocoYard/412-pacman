@@ -31,4 +31,4 @@ Play the game by inputing:
 ```zsh
  python pacman.py
 ```
-Other adjustments such as using agents are in the file "commands.txt".
+Other detailed usages such as using agents are in the file "commands.txt".
